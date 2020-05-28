@@ -17,7 +17,7 @@ public class Drivetrain {
         try {
             
         } catch (Exception e) {
-            System.out.println("TESTING TESTING TESTING");
+            System.out.println("TESTING");
         }
     }
 
